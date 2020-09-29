@@ -9,3 +9,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm living my dream ^^
 -->
+![Boussadjra's github stats](https://github-readme-stats.vercel.app/api?username=boussadjra&show_icons=true&theme=shades-of-purple&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boussadjra&hide=html,css&layout=compact&theme=shades-of-purple)](https://github.com/boussadjra/boussadjra)
